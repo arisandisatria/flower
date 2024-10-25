@@ -1,3 +1,4 @@
-onload = () =>{
-        document.body.classList.remove("container");
+onload = () => {
+  document.body.classList.remove("container");
+  audioElement.play();
 };
